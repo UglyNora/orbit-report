@@ -4,7 +4,7 @@ orbitType: string;
 type: string;
 operational: boolean;
 launchDate: string;
-//sourceList: object[];
+
 
 constructor(name: string, type: string, launchDate: string, orbitType: string, operational: boolean){
     this.name = name;
