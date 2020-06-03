@@ -7,19 +7,25 @@
     background-color: #da8a8a;
 }
 
+
+
 table {
   color: #111;
   border-radius: 5px;
   overflow: hidden;
   margin: 12px 0;
   min-width: 300px;
-  background: #dad8d8;
+  background: hsl(283, 67%, 86%);
 }
 
 .header-row {
     background: #34495E;
     color: #fff
 }
+tr:nth-child(even) { 
+    background-color: #dd5;
+} 
+
 
 th, td {
     text-align: left;
