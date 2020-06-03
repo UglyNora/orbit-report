@@ -4,7 +4,7 @@
 }
 
 .warning {
-    background-color: #da8a8a;
+    background-color: #d61414;
 }
 
 
@@ -15,7 +15,7 @@ table {
   overflow: hidden;
   margin: 12px 0;
   min-width: 300px;
-  background: hsl(283, 67%, 86%);
+  background: hsl(209, 60%, 80%);
 }
 
 .header-row {
@@ -23,7 +23,7 @@ table {
     color: #fff
 }
 tr:nth-child(even) { 
-    background-color: #dd5;
+    background-color: rgba(128, 128, 128, 0.384);
 } 
 
 
