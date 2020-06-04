@@ -23,6 +23,8 @@ export class OrbitCountComponent implements OnInit {
       }
     }
     return count;
+    
+
   }
 
 }
